@@ -1,7 +1,7 @@
 <html>
     <body>
     <head>
-    <link rel=="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
     </head>
         <header>
             <img src="https://mars.algoritmika.org/uploads/2020/11/logo_0_1606475988.png"/>
